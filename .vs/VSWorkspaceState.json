@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Develhope",
+    "\\Develhope\\BusinessLogic",
+    "\\Develhope\\BusinessLogic\\Interfaces",
+    "\\Develhope\\Controllers",
+    "\\Develhope\\Data",
+    "\\Develhope\\DataAccess",
+    "\\Develhope\\DataAccess\\Interfaces",
+    "\\Develhope\\Models",
+    "\\Develhope\\Models\\DTOs"
+  ],
+  "SelectedNode": "\\Develhope",
+  "PreviewInSolutionExplorer": false
+}

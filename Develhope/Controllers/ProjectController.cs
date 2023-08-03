@@ -10,7 +10,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace Develhope.Controllers
 {
     [ApiController]
-    [Route("api/[controller]")]
+    [Route("[controller]")]
     public class ProjectController : ControllerBase
     {
         private readonly IProjectService _projectService;
